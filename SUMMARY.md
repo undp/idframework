@@ -13,4 +13,5 @@
 
 ## Rights of Non-Citizens
 
+* [Prevention and reduction of statelessness](rights-of-non-citizens/prevention-and-reduction-of-statelessness.md)
 * [Access to proof of identity for all](rights-of-non-citizens/access-to-proof-of-identity-for-all.md)
