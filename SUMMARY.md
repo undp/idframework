@@ -34,15 +34,28 @@
 
 ## Capable Institutions
 
-* [Page 1](capable-institutions/page-1.md)
+* [Institutional arrangements for management of ID ecosystem](capable-institutions/institutional-arrangements-for-management-of-id-ecosystem/README.md)
+  * [The relationship between different ministry(ies) /agency(ies) in charge of digital legal identity](capable-institutions/institutional-arrangements-for-management-of-id-ecosystem/the-relationship-between-different-ministry-ies-agency-ies-in-charge-of-digital-legal-identity.md)
+  * [Independence of agency managing identification](capable-institutions/institutional-arrangements-for-management-of-id-ecosystem/independence-of-agency-managing-identification.md)
+  * [Budget for management of identification](capable-institutions/institutional-arrangements-for-management-of-id-ecosystem/budget-for-management-of-identification.md)
+  * [Staff qualifications and capacity](capable-institutions/institutional-arrangements-for-management-of-id-ecosystem/staff-qualifications-and-capacity.md)
+  * [Management of identification at sub-national level](capable-institutions/institutional-arrangements-for-management-of-id-ecosystem/management-of-identification-at-sub-national-level.md)
+* [Effective coordination and collaboration](capable-institutions/effective-coordination-and-collaboration/README.md)
+  * [Coordination mechanisms between identity authority and other government entities](capable-institutions/effective-coordination-and-collaboration/coordination-mechanisms-between-identity-authority-and-other-government-entities.md)
+  * [Management of the private sector](capable-institutions/effective-coordination-and-collaboration/management-of-the-private-sector.md)
+  * [Management of development assistance](capable-institutions/effective-coordination-and-collaboration/management-of-development-assistance.md)
 
 ## Data protection and privacy
 
-* [Page 2](data-protection-and-privacy/page-2.md)
+* [Data protection and privacy laws](data-protection-and-privacy/data-protection-and-privacy-laws.md)
+* [Data handling by public and private actors](data-protection-and-privacy/data-handling-by-public-and-private-actors.md)
+* [Data exchange practices](data-protection-and-privacy/data-exchange-practices.md)
+* [Cybersecurity](data-protection-and-privacy/cybersecurity.md)
 
 ## User value
 
 * [Page 3](user-value/page-3.md)
+* [Page 6](user-value/page-6.md)
 
 ## Procurement & anti-corruption
 
