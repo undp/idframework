@@ -47,10 +47,18 @@
 
 ## Data protection and privacy
 
-* [Data protection and privacy laws](data-protection-and-privacy/data-protection-and-privacy-laws.md)
-* [Data handling by public and private actors](data-protection-and-privacy/data-handling-by-public-and-private-actors.md)
-* [Data exchange practices](data-protection-and-privacy/data-exchange-practices.md)
-* [Cybersecurity](data-protection-and-privacy/cybersecurity.md)
+* [Data protection and privacy laws](data-protection-and-privacy/data-protection-and-privacy-laws/README.md)
+  * [Existence of data protection law](data-protection-and-privacy/data-protection-and-privacy-laws/existence-of-data-protection-law.md)
+  * [Structure of data protection authority](data-protection-and-privacy/data-protection-and-privacy-laws/structure-of-data-protection-authority.md)
+  * [Privacy and user ownership of data](data-protection-and-privacy/data-protection-and-privacy-laws/privacy-and-user-ownership-of-data.md)
+* [Data handling by public and private actors](data-protection-and-privacy/data-handling-by-public-and-private-actors/README.md)
+  * [Data management practices grounded in research and global best practices](data-protection-and-privacy/data-handling-by-public-and-private-actors/data-management-practices-grounded-in-research-and-global-best-practices.md)
+  * [Data processing practices](data-protection-and-privacy/data-handling-by-public-and-private-actors/data-processing-practices.md)
+  * [Rules on surveillance by public/private actors](data-protection-and-privacy/data-handling-by-public-and-private-actors/rules-on-surveillance-by-public-private-actors.md)
+* [Data exchange practices](data-protection-and-privacy/data-exchange-practices/README.md)
+  * [Rules on data sharing – information exchange](data-protection-and-privacy/data-exchange-practices/rules-on-data-sharing-information-exchange.md)
+* [Cybersecurity](data-protection-and-privacy/cybersecurity/README.md)
+  * [Cyber security policy and legislation defines public and private stakeholders design and delivery of](data-protection-and-privacy/cybersecurity/cyber-security-policy-and-legislation-defines-public-and-private-stakeholders-design-and-delivery-of.md)
 
 ## User value
 
