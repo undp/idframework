@@ -62,9 +62,9 @@
 
 ## User value
 
-* [ID requirements to access government services](user-value/id-requirements-to-access-government-services/README.md)
+* [ID requirements to access government services](user-value/page-3.md)
   * [Legal and practical requirements to use the digital ID](user-value/id-requirements-to-access-government-services/legal-and-practical-requirements-to-use-the-digital-id.md)
-* [ID requirements to access private sector services](user-value/id-requirements-to-access-private-sector-services/README.md)
+* [ID requirements to access private sector services](user-value/page-6.md)
   * [Ability to access private sector services (e.g., banking)](user-value/id-requirements-to-access-private-sector-services/ability-to-access-private-sector-services-e.g.-banking.md)
 * [Ensuring requirements do not cause exclusion](user-value/ensuring-requirements-do-not-cause-exclusion/README.md)
   * [Active outreach for enrolment](user-value/ensuring-requirements-do-not-cause-exclusion/active-outreach-for-enrolment.md)
@@ -75,8 +75,24 @@
 
 ## Procurement & anti-corruption
 
-* [Page 4](procurement-and-anti-corruption/page-4.md)
+* [Procurement](procurement-and-anti-corruption/procurement/README.md)
+  * [Procurement guidelines define system standards](procurement-and-anti-corruption/procurement/procurement-guidelines-define-system-standards.md)
+  * [Procedures for procurement of public infrastructure](procurement-and-anti-corruption/procurement/procedures-for-procurement-of-public-infrastructure.md)
+  * [Expertise](procurement-and-anti-corruption/procurement/expertise.md)
+* [Anti-corruption](procurement-and-anti-corruption/anti-corruption/README.md)
+  * [Extent to which there is an effective anti-corruption legal and institutional framework](procurement-and-anti-corruption/anti-corruption/extent-to-which-there-is-an-effective-anti-corruption-legal-and-institutional-framework.md)
+  * [Existing concerns](procurement-and-anti-corruption/anti-corruption/existing-concerns.md)
 
 ## Participation and access to information
 
-* [Untitled](participation-and-access-to-information/untitled.md)
+* [Public Participation](participation-and-access-to-information/public-participation/README.md)
+  * [Resources and transparency in public participation](participation-and-access-to-information/public-participation/resources-and-transparency-in-public-participation.md)
+  * [Resources and accountability for public participation](participation-and-access-to-information/public-participation/resources-and-accountability-for-public-participation.md)
+  * [Legislative oversight (beyond simple adoption of the law)](participation-and-access-to-information/public-participation/legislative-oversight-beyond-simple-adoption-of-the-law.md)
+  * [Civil society involvement](participation-and-access-to-information/public-participation/civil-society-involvement.md)
+  * [Media coverage](participation-and-access-to-information/public-participation/media-coverage.md)
+* [Monitoring and evaluation](participation-and-access-to-information/monitoring-and-evaluation/README.md)
+  * [Performance guidelines](participation-and-access-to-information/monitoring-and-evaluation/performance-guidelines.md)
+  * [Monitoring impact](participation-and-access-to-information/monitoring-and-evaluation/monitoring-impact.md)
+* [Access to information](participation-and-access-to-information/access-to-information/README.md)
+  * [Access to information by those not involved in managing the system](participation-and-access-to-information/access-to-information/access-to-information-by-those-not-involved-in-managing-the-system.md)
