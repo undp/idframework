@@ -47,23 +47,31 @@
 
 ## Data protection and privacy
 
-* [Data protection and privacy laws](data-protection-and-privacy/data-protection-and-privacy-laws/README.md)
+* [Data protection and privacy laws](data-protection-and-privacy/data-protection-and-privacy-laws.md)
   * [Existence of data protection law](data-protection-and-privacy/data-protection-and-privacy-laws/existence-of-data-protection-law.md)
   * [Structure of data protection authority](data-protection-and-privacy/data-protection-and-privacy-laws/structure-of-data-protection-authority.md)
   * [Privacy and user ownership of data](data-protection-and-privacy/data-protection-and-privacy-laws/privacy-and-user-ownership-of-data.md)
-* [Data handling by public and private actors](data-protection-and-privacy/data-handling-by-public-and-private-actors/README.md)
+* [Data handling by public and private actors](data-protection-and-privacy/data-handling-by-public-and-private-actors.md)
   * [Data management practices grounded in research and global best practices](data-protection-and-privacy/data-handling-by-public-and-private-actors/data-management-practices-grounded-in-research-and-global-best-practices.md)
   * [Data processing practices](data-protection-and-privacy/data-handling-by-public-and-private-actors/data-processing-practices.md)
   * [Rules on surveillance by public/private actors](data-protection-and-privacy/data-handling-by-public-and-private-actors/rules-on-surveillance-by-public-private-actors.md)
-* [Data exchange practices](data-protection-and-privacy/data-exchange-practices/README.md)
+* [Data exchange practices](data-protection-and-privacy/data-exchange-practices.md)
   * [Rules on data sharing – information exchange](data-protection-and-privacy/data-exchange-practices/rules-on-data-sharing-information-exchange.md)
-* [Cybersecurity](data-protection-and-privacy/cybersecurity/README.md)
+* [Cybersecurity](data-protection-and-privacy/cybersecurity.md)
   * [Cyber security policy and legislation defines public and private stakeholders design and delivery of](data-protection-and-privacy/cybersecurity/cyber-security-policy-and-legislation-defines-public-and-private-stakeholders-design-and-delivery-of.md)
 
 ## User value
 
-* [Page 3](user-value/page-3.md)
-* [Page 6](user-value/page-6.md)
+* [ID requirements to access government services](user-value/id-requirements-to-access-government-services/README.md)
+  * [Legal and practical requirements to use the digital ID](user-value/id-requirements-to-access-government-services/legal-and-practical-requirements-to-use-the-digital-id.md)
+* [ID requirements to access private sector services](user-value/id-requirements-to-access-private-sector-services/README.md)
+  * [Ability to access private sector services (e.g., banking)](user-value/id-requirements-to-access-private-sector-services/ability-to-access-private-sector-services-e.g.-banking.md)
+* [Ensuring requirements do not cause exclusion](user-value/ensuring-requirements-do-not-cause-exclusion/README.md)
+  * [Active outreach for enrolment](user-value/ensuring-requirements-do-not-cause-exclusion/active-outreach-for-enrolment.md)
+  * [Role of nodal institutions](user-value/ensuring-requirements-do-not-cause-exclusion/role-of-nodal-institutions.md)
+  * [Mechanisms in the absence of required (digital) ID](user-value/ensuring-requirements-do-not-cause-exclusion/mechanisms-in-the-absence-of-required-digital-id.md)
+* [Data and planning](user-value/data-and-planning/README.md)
+  * [Use of data from digital legal ID system for purposes of planning services](user-value/data-and-planning/use-of-data-from-digital-legal-id-system-for-purposes-of-planning-services.md)
 
 ## Procurement & anti-corruption
 
